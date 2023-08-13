@@ -250,7 +250,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  concurrent-ruby
+  concurrent-ruby (~> 1.2, >= 1.2.2)
   github-pages
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
