@@ -6,6 +6,6 @@ layout: home
 title: Grandiflora Wine Garden
 ---
 
-[operations manual](/_posts/2023-05-11-operations-manual)
+[operations manual]({% post_url 2023-05-11-operations-manual %})
 
-[milestones](/_posts/2023-08-11-milestones)
+[milestones]({% post_url 2023-08-11-milestones %})
