@@ -1,6 +1,6 @@
 ---
 title: Gazpacho
-layout: home
+layout: post
 toc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Operations Manual
-layout: home
+layout: post
 toc: true
 ---
 

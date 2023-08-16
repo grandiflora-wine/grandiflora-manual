@@ -1,6 +1,6 @@
 ---
 title: Training Sequence and Milestones for Growth
-layout: home
+layout: post
 oc: true
 ---
 
