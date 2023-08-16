@@ -19,25 +19,23 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Grandiflora Wine Garden
+theme: minima
 github_username:  grandiflora-wine
 
 # Build settings
-remote_theme: sighingnow/jekyll-gitbook
-plugins:  ["-lunr", "-search", "search-pro"]
+# remote_theme: sighingnow/jekyll-gitbook
+plugins:  
+  - jekyll-toc
+
 toc:
   enabled: true
   min_level: 1
   max_level: 6
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      toc: true
+collections:
+  recipes:
+    output: true
       
-kramdown:
-  parse_block_html: true
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.

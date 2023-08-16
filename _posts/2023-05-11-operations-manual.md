@@ -1,4 +1,8 @@
-# Operations Manual
+---
+title: Operations Manual
+layout: home
+toc: true
+---
 
 Documentation and procedures for Grandiflora. An experiment in open source organization.
 
