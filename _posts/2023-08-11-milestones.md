@@ -1,4 +1,9 @@
-# Training Sequence and Milestones for Growth
+---
+title: Training Sequence and Milestones for Growth
+layout: home
+oc: true
+---
+
 
 ## East Milestones
 
