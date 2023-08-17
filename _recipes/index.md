@@ -1,7 +1,8 @@
 ---
 title: Recipes
-layout: collection
-collection: recipes
-entries_layout: grid
+layout: single
 classes: wide
 ---
+{% for recipe in site.recipes %}{% unless recipe.name == "index.md" %}
+[{{recipe.title}}]({{recipe.url}}) 
+{%endunless%}{% endfor %}

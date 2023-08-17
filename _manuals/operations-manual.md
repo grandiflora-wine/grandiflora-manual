@@ -2,7 +2,7 @@
 title: Operations Manual
 layout: single
 classes: wide
-permalink: /operations-manual/
+permalink: /operations-manual
 toc: true    
 ---
 
