@@ -1,6 +1,6 @@
 ---
 title: Gozleme
-layout: post
+toc: true
 ---
 
 ## menu entry

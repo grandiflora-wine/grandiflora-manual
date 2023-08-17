@@ -4,5 +4,4 @@
 
 title: Grandiflora Wine Garden
 layout: home
-toc: true
 ---

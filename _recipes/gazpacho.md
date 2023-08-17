@@ -1,6 +1,7 @@
 ---
 title: Gazpacho
-layout: post
+layout: single
+classes: wide
 toc: true
 ---
 
