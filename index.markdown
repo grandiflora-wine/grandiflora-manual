@@ -4,14 +4,4 @@
 
 title: Grandiflora Wine Garden
 layout: home
-toc: true
 ---
-
-{% for recipe in site.recipes %}
-[{{recipe.title}}]({{recipe.url}})
-{% endfor %}
-
-
-[operations manual]({% post_url 2023-05-11-operations-manual %})
-
-[milestones]({% post_url 2023-08-11-milestones %})

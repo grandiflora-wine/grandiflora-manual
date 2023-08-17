@@ -1,0 +1,7 @@
+main:
+  - title: "Recipes"
+    url: /recipes/
+  - title: "Manuals"
+    url: /manuals/
+  - title: "About"
+    url: /readme

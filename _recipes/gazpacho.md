@@ -1,6 +1,7 @@
 ---
 title: Gazpacho
-layout: home
+layout: single
+classes: wide
 toc: true
 ---
 

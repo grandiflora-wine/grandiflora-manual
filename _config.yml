@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Grandiflora Wine Garden
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
 github_username:  grandiflora-wine
 
 # Build settings
@@ -32,8 +33,19 @@ toc:
   min_level: 1
   max_level: 6
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      classes: wide
+
 collections:
   recipes:
+    output: true
+  manuals:
+    output: true
+  pages:
     output: true
       
 
