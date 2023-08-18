@@ -3,7 +3,9 @@ title: Operations Manual
 layout: single
 classes: wide
 permalink: /manuals
-toc: true    
+toc: true
+sidebar:
+    nav: manuals
 ---
 
 Documentation and procedures for Grandiflora. An experiment in open source organization.

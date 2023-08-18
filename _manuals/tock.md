@@ -1,0 +1,37 @@
+---
+title: Tock Manual
+permalink: /manuals/tock
+layout: single
+classes: wide
+sidebar:
+    nav: manuals
+---
+
+Documentation: [https://tock.zendesk.com/hc/en-us](https://tock.zendesk.com/hc/en-us)
+
+## Seating
+
+Primary Role: [Host](/manuals/roles#hostsa)
+
+**Pre Arrival**: Before shift, inspect the system’s automatic seating assignments and ask yourself whether they make sense given the party, weather, and context. If rain is anticipated and a party is booked outside, decide with FOH staff on shift whether to add indoor tables to their reservation just in case. The aim is to be prepared either way. If a large party (more than 4) is booked, consider presetting their table, especially if tables will need to be moved to accommodate them. Visualize the entire shift in order of arrivals to make sure there are no conflicts that the automated system did not catch.
+
+**Arrival**: When guests arrive, after they have been greeted, determine whether they have a reservation or not.
+
+**Reservations**: Get the guests name, then mark them as Arrived. Confirm their preferences indicated - number of guests, dietary restrictions, and seating preferences. If the party is incomplete or if there is any hesitation about the number of guests, do not seat until all guests have arrived. Show them the table assigned to them and confirm that it will be acceptable. If so, mark them as Seated; if not, seat their reservation at the appropriate table using drag and drop. Notify the server assigned to that table with the following call: “I seated ((Party Name)) at ((Table Name)), ((Number)) guests.”
+
+**Walk ins**: Ask how many are in the party and confirm that they are there. Consult Timeline and give an estimate. Use preprogrammed pacing unless instructed otherwise by Expo. If possible to seat immediately, do so. Ask for seating preference and offer available tables. If acceptable, seat in tock. Notify the server assigned to the table with the following call: “I seated a walk-in at ((Table Name)) with ((number)) guests.”
+
+**Waitlist**: If it is not possible to seat a walk in immediately, offer a spot on the waitlist. Get name and a phone number, and confirm the estimate from the timeline. Add to waitlist, then drag and drop the waitlist item onto the timeline at the expected time.
+
+**Departures**: When a table gets up to leave, mark them as Finished and either reset the table or notify the server or SA assigned to bus the table.
+
+## Reservations
+
+Primary Role: [Host](/manuals/roles#hostsa)
+When taking a reservation in person or over the phone, follow the prompts on Tock. Treat similarly to a walk in. Make sure to get:
+
+Number in party
+Full name
+Call back number
+Dietary restrictions
+Special occasion

@@ -2,14 +2,18 @@
 title: Roles
 layout: single
 classes: wide
+permalink: /manuals/roles
+sidebar:
+    nav: manuals
 ---
+
 This is a description of functional roles at Grandiflora.
 
 ## Host/SA
 
 - Welcomes guests - East
-- Seats tables and orients guests - East
-- Answers phone, makes reservations - East
+- [Seats tables and orients guests](/manuals/tock#seating) - East
+- [Answers phone, makes reservations](/manuals/tock#reservations) - East
 - Refills water - Southwest
 - Bus and reset tables - Southwest
 

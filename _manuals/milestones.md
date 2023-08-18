@@ -2,10 +2,10 @@
 title: Training Sequence and Milestones for Growth
 layout: single
 classes: wide
-permalink: /milestones/
-oc: true
+permalink: /manuals/milestones/
+sidebar:
+    nav: manuals
 ---
-
 
 ## East Milestones
 

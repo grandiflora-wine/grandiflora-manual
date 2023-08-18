@@ -1,6 +1,9 @@
 ---
 title: Standards of Conduct
+permalink: /manuals/socs
 layout: single
+sidebar:
+    nav: manuals
 ---
 
 

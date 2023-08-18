@@ -5,3 +5,17 @@ main:
     url: /manuals/
   - title: "About"
     url: /readme
+
+manuals:
+  - title: Conduct
+    children:
+      - title: Standards of Conduct
+        url: /manuals/socs/
+      - title: Milestones
+        url: /manuals/milestones
+  - title: Operations
+    children:
+      - title: Functional Roles
+        url: /manuals/roles
+      - title: Tock
+        url: /manuals/tock
