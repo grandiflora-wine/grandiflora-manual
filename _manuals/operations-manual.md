@@ -16,46 +16,6 @@ Welcome to the Grandiflora manual. This is an attempt to record how we run servi
 
 We’re going to start by describing how we want customers to experience our service. As a team, we are collectively responsible for this holistic experience so it’s important that all of us understand the whole thing, especially so that we can escalate and delegate to each other.
 
-### Roles
-
-- Host/SA
-  - Welcomes guests - East
-  - Seats tables and orients guests - East
-  - Answers phone, makes reservations - East
-  - Refills water - Southwest
-  - Bus and reset tables - Southwest
-- Server
-  - Capable of performing all Host/SA duties when needed
-  - Discloses Specials - Southeast
-  - Makes recommendations off glass, cocktail, and dinner menus - Southeast/South
-  - Presents wine, food, and cocktails to guests - Southeast/South
-  - Handles payments - South
-- Wine Server/Somm
-  - Capable of performing all Server duties as needed
-  - Makes bottle list recommendations - South
-  - Presents wine bottles - South
-  - Stocks wine fridges and shelves - North
-  - Manages wine inventory - North
-- Bartender
-  - Makes cocktails - South
-Preps ice and bar ingredients - Southwest/Northwest
-- Supervisor
-  - Expo - South
-  - Conflict resolution - Northwest
-  - Emergency response - North
-  - Judgement calls - North
-- Manager
-  - Hiring and Training - North
-- Cook
-- Prep
-- Cold line
-- Hot line
-- Dish
-- Kitchen Manager
-  - Inventory
-  - Ordering
-  - Pickup
-
 ## Operator Instructions
 
 This is our operating manual for specific subsystems that compose Grandiflora. These are general protocols. There will always be exceptions and judgment calls to be made, and there should be a North designee on shift at all times to take responsibility for these. Remember your training: communicate!
