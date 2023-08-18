@@ -1,0 +1,35 @@
+---
+title: Standards of Conduct
+layout: single
+---
+
+
+- All Roles
+  - Safety
+  - Fire Safety
+    - Managers to receive alarm training
+  - Knife Safety
+    - Call sharp
+    - Ask what knife dishwashing protocol is
+  - Spill and Slip Prevention - see below
+    - Work Clothes
+    - Nonslip shoes
+    - Hair coverings for kitchen
+  - Physical contamination prevention
+    - Hair
+    - Clothes
+    - Glitter
+  - Pest prevention
+    - No open containers
+ 
+  - Hygiene
+    - Handwashing - between tasks
+    - Dishwashing
+
+  - Communication
+    - Respectful
+    - Calls
+      - Behind
+      - Sharp
+      - Hot
+      - Corner

@@ -1,16 +1,4 @@
----
-title: Operations Manual
-layout: single
-classes: wide
-permalink: /operations-manual
-toc: true    
----
 
-Documentation and procedures for Grandiflora. An experiment in open source organization.
-
-Experimenting with GHP as a publication mechanism.
-
-Welcome to the Grandiflora manual. This is an attempt to record how we run service at Grandiflora! It’s by no means complete, and if you are reading this, please contribute to it!
 
 ## Quality of Service
 
@@ -24,37 +12,6 @@ This preliminary section will contain general guidelines or explanations of shor
 
 **Two Sets of Eyes**: This is a practice to explain what you are doing to another (trained or responsible) person either before or immediately after you do it. This prevents mistakes and also notifies staff of exceptional events in case other systems need to adapt. Obviously you don’t want to do this at all times, but when you encounter it in this manual it is an injunction to make sure someone else at least is aware of what you are doing.
 
-### Standards of Conduct
-
-- All Roles
-Safety
-Fire Safety
-Managers to receive alarm training
-Knife Safety
-Call sharp
-Ask what knife dishwashing protocol is
-Spill and Slip Prevention - see below
-Work Clothes
-Nonslip shoes
-Hair coverings for kitchen
-Physical contamination prevention
-Hair
-Clothes
-Glitter
-Pest prevention
-No open containers
-
-Hygiene
-Handwashing - between tasks
-Dishwashing
-
-Communication
-Respectful
-Calls
-Behind
-Sharp
-Hot
-Corner
 
 ### Tock Seating
 
