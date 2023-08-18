@@ -5,3 +5,11 @@
 title: Grandiflora Wine Garden
 layout: home
 ---
+
+Welcome to Grandiflora's manuals!
+
+Get started:
+
+- [About this site](/about)
+- Onboarding (coming soon)
+- [How to contribute](/open-source)
