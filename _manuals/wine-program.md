@@ -1,0 +1,15 @@
+---
+title: Wine
+permalink: /manuals/wine
+sidebar:
+    nav: manuals
+---
+### Wine Ordering
+
+When ordering wine, make sure you create a PO in Trello.
+
+### Wine Receiving
+
+When receiving a wine order, check with the Trello PO. Verify that the wine received is the wine ordered. Move the wine cases to the cellar and enter in inventory. Any wines that aren’t in the Knowledge Base, make sure to add to [https://trello.com/c/la829uPG/180-wine-intake](https://trello.com/c/la829uPG/180-wine-intake).
+
+### Stocking Wine

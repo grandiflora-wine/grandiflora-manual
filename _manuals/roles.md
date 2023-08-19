@@ -1,0 +1,63 @@
+---
+title: Roles
+layout: single
+classes: wide
+permalink: /manuals/roles
+sidebar:
+    nav: manuals
+---
+
+This is a description of functional roles at Grandiflora.
+
+## Host/SA
+
+- Welcomes guests - East
+- [Seats tables and orients guests](/manuals/tock#seating) - East
+- [Answers phone, makes reservations](/manuals/tock#reservations) - East
+- Refills water - Southwest
+- Bus and reset tables - Southwest
+
+## Server
+
+- Discloses Specials - Southeast
+- Makes recommendations off glass, cocktail, and dinner menus - Southeast/South
+- Presents wine, food, and cocktails to guests - Southeast/South
+- Handles payments - South
+- Capable of performing all Host/SA duties when needed
+
+## Wine Server/Somm
+
+- Capable of performing all Server duties as needed
+- Makes bottle list recommendations - South
+- Presents wine bottles - South
+- Stocks wine fridges and shelves - North
+- Manages wine inventory - North
+
+## Bartender
+
+- Makes cocktails - South
+- Preps ice and bar ingredients - Southwest/Northwest
+
+## Supervisor
+
+- Expo - South
+- Conflict resolution - Northwest
+- Emergency response - North
+- Judgement calls - North
+
+## Manager
+
+- Hiring and Training - North
+
+## Cook
+
+- Prep
+- Cold line
+- Hot line
+- Dish
+
+## Kitchen Manager
+
+- Inventory
+- Ordering
+- Pickup
