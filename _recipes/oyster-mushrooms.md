@@ -15,17 +15,17 @@ Mushrooms in a breathable bag or open tray
 
 - Med skillet
 - Wood spoon
-- Salt and spoon"			
+- Salt and spoon	
 
 **Mise en Place**		
 
 - Mushrooms
-- Tray for hand shredding or knife and board for slicing"			
+- Tray for hand shredding or knife and board for slicing	
 
 **Cook**		
 
 - Select 3oz stems
 - Hand shred to 1/4 to 1/2 in thickness, leaving caps mostly intact
-- Saute until tender - stems first if necessary"			
+- Saute until tender - stems first if necessary	
 Plate/ Garnish		"- Medium bowl
 - Flake salt garnish"			
