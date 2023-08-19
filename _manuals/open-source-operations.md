@@ -1,7 +1,7 @@
 ---
 title: Open Source Operations
 permalink: /open-source
-layout: single
+layout: single 
 sidebar:
     nav: manuals
 ---

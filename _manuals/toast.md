@@ -1,0 +1,44 @@
+---
+title: Toast
+permalink: /manuals/toast
+sidebar:
+    nav: manuals
+---
+
+### Toast Ordering
+
+Primary Role: Server
+
+Punching orders in in Toast is a complex and evolving task. This section will record general guidelines but please consult with Expo or your supervisor on specific dish or beverage protocols. Before reading this section you might wish to read Toast’s documentation: [https://central.toasttab.com/s/article/Starting-Sending-an-Order](https://central.toasttab.com/s/article/Starting-Sending-an-Order)
+
+Verbal or visual confirmation: When entering orders in Toast, make sure to hand deliver or confirm receipt of tickets to Bar and check receipt in Kitchen. This protects us from network failures. Also confirm that the ticket as it printed is the ticket you meant to send.
+
+**Voids and Changes**: When someone makes a mistake or something needs to be canceled or changed, make the change in Toast immediately and notify Bar, Kitchen, or Expo, as appropriate. No customer should see a voided item on the bill. Make sure the void reason is accurate: 86, Server Error, or Customer Changed Mind. Use Two Sets of Eyes for this.
+
+**Industry Discounts**: Two Sets of Eyes. Sunday evenings only. Make sure you use the correct discount code in the system.
+
+### Toast Inventory
+
+North
+Primary Role: Wine Server
+Quick Edit (during service) Documentation: [https://doc.toasttab.com/doc/platformguide/adminInventoryUpdateQuickEdit.html](https://doc.toasttab.com/doc/platformguide/adminInventoryUpdateQuickEdit.html)
+Menu Builder (inventory count) Documentation:
+[https://doc.toasttab.com/doc/platformguide/adminInventoryUpdateBackend.html](https://doc.toasttab.com/doc/platformguide/adminInventoryUpdateBackend.html)
+
+Inventory will primarily be used for wine. When we are running low on food specials we can use inventory to track these as well. Read the Toast documentation for specific details on which buttons to press. Quick update will be used to 86 items, whereas inventory counts will use the Menu Builder page on the handheld.
+
+### Toast Menu Programming
+
+South
+Primary Role: FOH Supervisor
+[https://www.toasttab.com/restaurants/admin/menus](https://www.toasttab.com/restaurants/admin/menus)
+[https://grandiflorawine.com/menus](https://grandiflorawine.com/menus)
+
+**General sequence**
+Each week, go through the glass menu and dinner menu and check against the menus in Toast. You can use quick edit to modify as necessary, unless it’s a large changeover. Remove items that are no longer available.
+
+**Specials**
+Daily specials can be added via quick edit.
+Daily Check and 86es
+Check with kitchen staff before each service to program anything short on the dinner menu. Get an estimate and use quick edit to adjust inventory. Same applies to 86ed items.
+[https://doc.toasttab.com/doc/platformguide/adminInventoryUpdateQuickEdit.html](https://doc.toasttab.com/doc/platformguide/adminInventoryUpdateQuickEdit.html)

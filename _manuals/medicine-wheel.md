@@ -1,0 +1,133 @@
+---
+title: Medicine Wheel
+permalink: /medicine-wheel
+sidebar:
+    nav: manuals
+---
+## Service Standards - Medicine Wheel
+
+### East
+
+Welcoming, orientation, safety
+**Practice**: orientation
+**Embodiment**: poisonous plants and venomous animals
+**Result**: sense of safety, common sense
+
+* Warm welcome
+* Warm tone, body language
+* Warm language: get comfortable, make yourself at home
+* Orientation to people
+* introduce yourself
+* get names - mark as arrived in Tock
+* have you been here before?/first time here for everybody? - welcome in, welcome back
+* check reservations
+* what brings you in tonight, celebrating anything? - if already noted on the reservation, acknowledge what’s already there!
+* Orientation to the place
+* Vegetarian
+* natural wine bar
+* And inn
+* with a permaculture garden
+* Point out the bathroom!!
+* Orientation to community
+* these are mostly sharing plates, local and organic when possible
+* Create a sense of safety while leading people to their table
+* watch your step, do you have any dietary restrictions, will this seating work for you?
+* CHECK IDS
+* Hazards orientation
+* we don’t spray in the garden so there are bugs, there’s no fans, we do have umbrellas for shade, here’s some water - stay hydrated!
+* Answer questions
+* what’s natural wine?
+* When did this open?
+* transition to southeast
+* Record in Tock
+
+### Southeast
+
+Curiosity, excitement, engagement, forward upward outward motion
+**Practice**: games
+**Embodiment**: bugs, lizards, fast moving things
+**Result**: aliveness: excitement, engagement, animatedness
+
+* Here’s what’s new and special!
+* Affirm East by not recommending anything they’re allergic to
+* Let them know our wines tend to be not “sweet” (high residual sugar) or “dry” (excessively oaked, extracted, and/or tannic)
+* Feel out appropriateness
+* How adventurous are you feeling tonight?
+* Based on your questions (East) I think you would be interested in these: (make recommendations)
+* Excitable activating language
+* did anything jump out at you
+* Anything you’re curious or excited about
+
+### South
+
+Focus, learning, discernment, follow through
+**Practice**: tracking
+**Embodiment**: mammals
+**Result**: focus and discernment, recall, quick and accurate decision making
+
+* Delivering the correct food to the correct table in a reasonable time
+* WINE DROPS - okay now you’re drinking PAY ATTENTION
+* Food drops - this is what it is, reaffirm allergies
+* Checkback to confirm everything is correct, make adjustments, deepen education
+
+### Southwest
+
+Caring, rest, relaxation, stillness, pause, integration
+**Practice**: care and hygiene, also mapping
+**Embodiment**: medicinal plants
+**Result**: calm and integration
+
+* Keep water filled
+* Checkback frequently
+* Take a pause in your service cycle and reset
+* Resetting the table, making the space comfortable
+* HYGIENE
+* Clean the bathroom
+
+### West
+
+Gathering, connection, sharing stories
+**Practice**: storytelling
+**Embodiment**: sensitive species and ecological indicators i.e. frogs and lichens
+**Result**: sense of responsibility
+
+* Catch stories, ask questions about them
+* Balances east. When we’re in East customer is in West
+* Ask for feedback and actively listen
+* Give feedback to staff
+* Close of day - harvest stories, reflect on performance, make adjustments
+
+### Northwest
+
+Long term reflection, connection to place and tradition, intergenerational connections
+**Practice**: peacemaking
+**Embodiment**: heritage beings and species - redwoods and springs
+**Result**: sense of belonging and meaning
+
+* Balances southeast. When customer is in the Northwest we should be in Southeast and vice versa
+* Empathy - when something goes wrong, acknowledge harms and address them
+* Active listening - repeat and reiterate to get people on the same page
+* Collaborative problem solving - ask for solutions before offering them
+* Making connections across events and incidents
+* Remembering and recording information about customers for better service
+
+### North
+
+Vision, leadership, struggle and challenge
+**Practice**: survival
+**Embodiment**: trees
+**Result**: groundedness, vision
+
+Balances South. Prevents us from getting lost in the details.
+* Leadership: making sure staff are growing and developing
+* Accountability: making sure that decisions support the overall business
+
+### Northeast
+
+Silence, stillness, magic
+**Practice**: silence and invisibility
+**Embodiment**: birds
+**Result**: awareness
+
+Balances southwest. Frees us from comfort seeking, keeps awareness from closing down
+* Unpredictable - paying attention beyond the situation

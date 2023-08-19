@@ -4,7 +4,7 @@ main:
   - title: "Manuals"
     url: /manuals/
   - title: "About"
-    url: /readme
+    url: /about
 
 manuals:
   - title: Conduct
@@ -13,9 +13,22 @@ manuals:
         url: /manuals/socs/
       - title: Milestones
         url: /manuals/milestones
+      - title: Open Source
+        url: /open-source
+      - title: Medicine Wheel
+        url: /medicine-wheel
+      - title: Communcation
+        url: /effective-communications
+        
   - title: Operations
     children:
       - title: Functional Roles
         url: /manuals/roles
       - title: Tock
         url: /manuals/tock
+      - title: Toast
+        url: /manuals/toast
+      - title: Trello
+        url: /manuals/Trello
+      - title: Wine
+        url: /manuals/wine

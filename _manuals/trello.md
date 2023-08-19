@@ -1,0 +1,38 @@
+---
+title: Trello
+permalink: /manuals/trello
+sidebar:
+    nav: manuals
+---
+
+## Trello
+
+### Wine Trello
+Primary Role: Wine Server
+
+If you’re going to update Wine Trello, check [https://trello.com/c/la829uPG/180-wine-intake](https://trello.com/c/la829uPG/180-wine-intake) for wines that need entries. Make a new card in the Knowledge Base under Wine and add as much information as you can find on the internet to it. Then, copy core technicals to Toast: [https://central.toasttab.com/s/article/How-do-I-add-Item-details-to-my-menu-1493070610233](https://central.toasttab.com/s/article/How-do-I-add-Item-details-to-my-menu-1493070610233)
+
+### Food Trello
+Primary Role: Kitchen Manager
+Training Trello
+Primary Role: Supervisor
+Bar
+Sanitation
+Mixing Guidelines
+Handmade Ice
+Kitchen Inventory
+Primary Role: Kitchen Manager
+Dish
+Primary Role: Cook
+
+Cold Line
+Primary Role: Cook
+
+Hot Line
+Primary Role: Cook
+
+Prep
+Primary Role: Cook
+
+Expo
+Primary Role: Supervisor
