@@ -22,7 +22,10 @@ title: Grandiflora Wine Garden
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "dark"
 github_username:  grandiflora-wine
-
+search: true
+lunr:
+  search_within_pages: true
+  
 # Build settings
 # remote_theme: sighingnow/jekyll-gitbook
 plugins:  
