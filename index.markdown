@@ -13,5 +13,3 @@ Get started:
 - [About this site](/about)
 - Onboarding (coming soon)
 - [How to contribute](/open-source)
-
-{% include search-lunr.html %}
