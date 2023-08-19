@@ -30,8 +30,8 @@ Primary Role: [Host](/manuals/roles#hostsa)
 Primary Role: [Host](/manuals/roles#hostsa)
 When taking a reservation in person or over the phone, follow the prompts on Tock. Treat similarly to a walk in. Make sure to get:
 
-Number in party
-Full name
-Call back number
-Dietary restrictions
-Special occasion
+- Number in party
+- Full name
+- Call back number
+- Dietary restrictions
+- Special occasion?
