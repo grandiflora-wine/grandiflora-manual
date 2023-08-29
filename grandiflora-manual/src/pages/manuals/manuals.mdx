@@ -5,9 +5,26 @@ classes: wide
 permalink: /manuals
 toc: true
 sidebar:
-    nav: manuals
+  nav: manuals
 ---
+
+import { graphql, Link } from "gatsby";
 
 Documentation and procedures for Grandiflora. An experiment in open source organization.
 
 Welcome to the Grandiflora manual. This is an attempt to record how we run service at Grandiflora! It’s by no means complete, and if you are reading this, please contribute to it!
+
+<ul>
+{props.data.allSitePage.nodes.map(node => 
+<li key={node.path}>
+  <Link to={node.path}>{node.pageContext?.frontmatter?.title}</Link>
+</li>)}
+</ul>
+export const query = graphql`query MyQuery {
+  allSitePage {
+    nodes {
+      path
+      pageContext
+    }
+  }
+}`
