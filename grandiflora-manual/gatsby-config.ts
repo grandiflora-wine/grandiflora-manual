@@ -16,6 +16,14 @@ const config: GatsbyConfig = {
         extensions: [`.mdx`, `.md`]
       }
     },
+        {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        "name": "components",
+        "path": "./src/components/"
+      },
+      __key: "manuals"
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {

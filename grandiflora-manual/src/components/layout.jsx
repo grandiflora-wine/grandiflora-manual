@@ -2,18 +2,23 @@ import { MDXProvider } from "@mdx-js/react";
 import React from "react";
 import { useState } from "react";
 import Typography from "@mui/material/Typography";
-import Box from "@mui/material/Box";
 import Drawer from "@mui/material/Drawer";
+import Container from "@mui/material/Container";
+
+import Box from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 import List from "@mui/material/List";
 import ListItem from "@mui/material/ListItem";
+import ListItemButton from "@mui/material/ListItemButton";
+import { Link } from "gatsby";
 import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
-import Nav from "./nav.jsx";
+import Nav from "./nav";
 
 export default function Layout({ children }) {
   const components = {
     p: Typography,
+    div: Box,
     ul: List,
     li: ListItem,
   };
@@ -36,7 +41,9 @@ export default function Layout({ children }) {
           setDrawerOpen(false);
         }}
       >
-        <Nav />
+        <Container>
+          <Nav components={{ ul: List, li: ListItemButton, a: Link }} />
+        </Container>
       </Drawer>
       {children}
     </MDXProvider>
