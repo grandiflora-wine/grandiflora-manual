@@ -8,27 +8,37 @@ sidebar:
   nav: manuals
 ---
 
+import List from "@mui/material/List";
+import ListItem from "@mui/material/ListItem";
+import ListItemButton from "@mui/material/ListItemButton";
+import ListItemText from "@mui/material/ListItemText";
+import Layout from "../../components/layout.mdx";
 import { graphql, Link } from "gatsby";
 
+export const query = graphql`
+  query MyQuery {
+    allSitePage {
+      nodes {
+        path
+        pageContext
+      }
+    }
+  }
+`;
+
+<Layout>
 Documentation and procedures for Grandiflora. An experiment in open source organization.
 
 Welcome to the Grandiflora manual. This is an attempt to record how we run service at Grandiflora! It’s by no means complete, and if you are reading this, please contribute to it!
 
-<ul>
+<List>
 {props.data.allSitePage.nodes
 .filter(node=>node.pageContext?.frontmatter?.title)
 .map(node => 
-<li key={node.path}>
+<ListItemButton key={node.path}>
   <Link to={node.path}>
     {node.pageContext?.frontmatter?.title}
   </Link>
-</li>)}
-</ul>
-export const query = graphql`query MyQuery {
-  allSitePage {
-    nodes {
-      path
-      pageContext
-    }
-  }
-}`
+</ListItemButton>)}
+</List>
+</Layout>
