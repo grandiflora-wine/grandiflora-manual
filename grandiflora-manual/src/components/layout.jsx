@@ -16,7 +16,11 @@ import Toolbar from "@mui/material/Toolbar";
 import Nav from "./nav";
 import { Grid } from "@mui/material";
 
-const ButtonLink = ({children, href}) => <ListItemButton component={Link} to={href}>{children}</ListItemButton>;
+const ButtonLink = ({ children, href }) => (
+  <ListItemButton component={Link} to={href}>
+    {children}
+  </ListItemButton>
+);
 
 export default function Layout({ children }) {
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -37,9 +41,11 @@ export default function Layout({ children }) {
           setDrawerOpen(false);
         }}
       >
-        <List>
-          <Nav components={{ a: ButtonLink }} />
-        </List>
+        <Container maxWidth="md">
+          <List>
+            <Nav components={{ a: ButtonLink }} />
+          </List>
+        </Container>
       </Drawer>
       {children}
     </Grid>
