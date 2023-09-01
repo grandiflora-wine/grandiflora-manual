@@ -14,19 +14,15 @@ import { Link } from "gatsby";
 import AppBar from "@mui/material/AppBar";
 import Toolbar from "@mui/material/Toolbar";
 import Nav from "./nav";
+import { Grid } from "@mui/material";
+
+const ButtonLink = ({children, href}) => <ListItemButton component={Link} to={href}>{children}</ListItemButton>;
 
 export default function Layout({ children }) {
-  const components = {
-    p: Typography,
-    div: Box,
-    ul: List,
-    li: ListItem,
-  };
-
   const [drawerOpen, setDrawerOpen] = useState(false);
 
   return (
-    <MDXProvider components={components}>
+    <Grid>
       <AppBar position="static">
         <Toolbar>
           <Button variant="outline" onClick={() => setDrawerOpen(true)}>
@@ -41,11 +37,11 @@ export default function Layout({ children }) {
           setDrawerOpen(false);
         }}
       >
-        <Container>
-          <Nav components={{ ul: List, li: ListItemButton, a: Link }} />
-        </Container>
+        <List>
+          <Nav components={{ a: ButtonLink }} />
+        </List>
       </Drawer>
       {children}
-    </MDXProvider>
+    </Grid>
   );
 }
