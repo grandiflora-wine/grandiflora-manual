@@ -16,7 +16,20 @@ const config: GatsbyConfig = {
         extensions: [`.mdx`, `.md`]
       }
     },
-        {
+    {
+      resolve: 'gatsby-source-airtable',
+      options: {
+        apiKey: process.env.AIRTABLE_API_KEY,
+        tables: [
+          {
+            baseId: "appRgUOWrbyoM3d9q",
+            tableName: "Inventory_Count"
+          }
+        ]
+      },
+      __key: "inventory"
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         "name": "components",
