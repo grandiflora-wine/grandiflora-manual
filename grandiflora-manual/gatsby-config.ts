@@ -1,5 +1,9 @@
 import type { GatsbyConfig } from "gatsby";
 
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 const config: GatsbyConfig = {
   siteMetadata: {
     title: `Grandiflora Manual`,
@@ -22,8 +26,8 @@ const config: GatsbyConfig = {
         apiKey: process.env.AIRTABLE_API_KEY,
         tables: [
           {
-            baseId: "appRgUOWrbyoM3d9q",
-            tableName: "Inventory_Count"
+            baseId: "appFvb4oVwT5mwLO8",
+            tableName: "tblZJ8p8VEArIUYVs"
           }
         ]
       },
